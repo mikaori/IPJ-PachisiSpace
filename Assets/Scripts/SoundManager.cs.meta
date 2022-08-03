@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8a8390d8aa3e262428dcdd53dc24f77e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - startPlayerAudioClip: {fileID: 8300000, guid: b306199510a8ad449a1dd90597662e48, type: 3}
+  - hitPlayerAudioClip: {fileID: 8300000, guid: 82e395a9bb6619b45a3fcc6bc56ee484, type: 3}
+  - gameCompletedAudioClip: {fileID: 8300000, guid: 95607691e7d64814cbe7bb2f98b1b707, type: 3}
+  - selectionOptionMenuAudioClip: {fileID: 8300000, guid: d5ce37325ab90a141871c5f7f643f009, type: 3}
+  - gameMusicAudioClip: {fileID: 8300000, guid: 3e12240f21d674d4fb2b726a91f76212, type: 3}
+  - jumpAudioClip: {fileID: 8300000, guid: 9f74d03104991b04b92b22a2ed8f4a76, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
